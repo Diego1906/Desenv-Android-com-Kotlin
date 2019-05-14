@@ -11,7 +11,6 @@ fun reverseUsingSB(str: String): String {
     return newStr.toString()
 }
 
-
 fun reverseUsingLoop(str: String): String {
     var index: Int = 1
     var strNew: String = ""
@@ -23,8 +22,12 @@ fun reverseUsingLoop(str: String): String {
     return strNew
 }
 
+fun reverseUsingFunReversed(str: String): String {
+    return str.reversed()
+}
 
 fun main() {
     println(reverseUsingLoop("Diego"))
     println(reverseUsingSB("Aline"))
+    println(reverseUsingFunReversed("Eloise"))
 }
