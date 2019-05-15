@@ -11,6 +11,10 @@ fun reverseUsingSB(str: String): String {
     return newStr.toString()
 }
 
+fun reverseUsingSbReverse(str: String): String {
+    return StringBuilder(str).reverse().toString()
+}
+
 fun reverseUsingLoop(str: String): String {
     var index: Int = 1
     var strNew: String = ""

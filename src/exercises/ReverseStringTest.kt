@@ -18,4 +18,9 @@ class ReverseStringTest {
     fun reverseUsingFunReversed() {
         Assert.assertEquals("desrever nuf gnirts niltok", reverseUsingLoop("kotlin string fun reversed"))
     }
+
+    @Test
+    fun reverseUsingSbReverse() {
+        Assert.assertEquals("aneleH", reverseUsingSbReverse("Helena"))
+    }
 }
