@@ -4,11 +4,6 @@
     <list default="true" id="d80b2066-7096-4901-9c72-397a7d8abf3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/META-INF/Desenvolvimento Android com Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/META-INF/Desenvolvimento Android com Kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/ReverseString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/ReverseString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/ReverseStringTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/ReverseStringTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,22 +18,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basic/cast.kt">
+        <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="391">
+              <caret line="23" column="73" lean-forward="true" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+              <folding>
+                <element signature="e#19#64#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/basic/erros.kt">
+        <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonat.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="e#15#79#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -48,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -62,21 +58,22 @@
         <option value="$PROJECT_DIR$/src/exercises/ReverseStringTest.kt" />
         <option value="$PROJECT_DIR$/src/basic/cast.kt" />
         <option value="$PROJECT_DIR$/src/basic/erros.kt" />
+        <option value="$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt" />
+        <option value="$PROJECT_DIR$/src/exercises/VowelConsonat.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
+    <option name="x" value="231" />
+    <option name="y" value="131" />
     <option name="width" value="1616" />
-    <option name="height" value="916" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,7 +90,7 @@
               <item name="CursoIntroducaoKotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Desenv-Android-com-Kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CursoIntroducaoKotlin" type="b2602c69:ProjectViewProjectNode" />
@@ -104,6 +101,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.basic.ErrosKt">
+  <component name="RunManager" selected="JUnit.VowelConsonantTest">
     <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Desenvolvimento Android com Kotlin" />
       <extension name="coverage">
@@ -138,6 +136,37 @@
       <option name="PACKAGE_NAME" value="exercises" />
       <option name="MAIN_CLASS_NAME" value="exercises.ReverseStringTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelConsonantTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Desenvolvimento Android com Kotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercises" />
+      <option name="MAIN_CLASS_NAME" value="exercises.VowelConsonantTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelConsonantTest.countVowelsAndConsonants" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Desenvolvimento Android com Kotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercises" />
+      <option name="MAIN_CLASS_NAME" value="exercises.VowelConsonantTest" />
+      <option name="METHOD_NAME" value="countVowelsAndConsonants" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -168,25 +197,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercises.ReverseStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Desenvolvimento Android com Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exercises.ReverseStringKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VowelConsonantTest" />
+        <item itemvalue="JUnit.VowelConsonantTest.countVowelsAndConsonants" />
+        <item itemvalue="JUnit.ReverseStringTest" />
         <item itemvalue="Kotlin.basic.ErrosKt" />
         <item itemvalue="Kotlin.basic.CastKt" />
-        <item itemvalue="JUnit.ReverseStringTest" />
-        <item itemvalue="Kotlin.exercises.ReverseStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -204,20 +221,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseStringTest - 2019.05.14 at 14h 18m 21s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest - 2019.05.14 at 14h 32m 31s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest - 2019.05.14 at 23h 30m 18s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest - 2019.05.14 at 23h 36m 45s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReverseStringTest - 2019.05.14 at 23h 37m 31s.xml">
       <configuration name="ReverseStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseStringTest - 2019.05.15 at 13h 52m 29s.xml">
+      <configuration name="ReverseStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelConsonantTest_countVowelsAndConsonants - 2019.05.15 at 14h 04m 29s.xml">
+      <configuration name="VowelConsonantTest.countVowelsAndConsonants" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelConsonantTest_countVowelsAndConsonants - 2019.05.15 at 14h 10m 14s.xml">
+      <configuration name="VowelConsonantTest.countVowelsAndConsonants" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelConsonantTest_countVowelsAndConsonants - 2019.05.15 at 14h 11m 46s.xml">
+      <configuration name="VowelConsonantTest.countVowelsAndConsonants" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelConsonantTest_countVowelsAndConsonants - 2019.05.15 at 14h 13m 22s.xml">
+      <configuration name="VowelConsonantTest.countVowelsAndConsonants" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelConsonantTest - 2019.05.15 at 14h 13m 30s.xml">
+      <configuration name="VowelConsonantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelConsonantTest - 2019.05.15 at 14h 14m 08s.xml">
+      <configuration name="VowelConsonantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelConsonantTest - 2019.05.15 at 14h 14m 42s.xml">
+      <configuration name="VowelConsonantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VowelConsonantTest - 2019.05.15 at 14h 15m 16s.xml">
+      <configuration name="VowelConsonantTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -230,10 +262,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1616" height="916" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19087404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16792738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -242,7 +273,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38137755" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38134205" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,7 +281,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32780612" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32569557" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -261,6 +292,18 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/exercises/VowelConsonat.kt</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Strings.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -269,19 +312,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/ReverseString.kt">
+    <entry file="file://$PROJECT_DIR$/src/basic/erros.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/ReverseStringTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="e#19#64#0" expanded="true" />
+            <element signature="e#15#79#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -293,13 +329,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/basic/erros.kt">
+    <entry file="file://$PROJECT_DIR$/src/exercises/ReverseString.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="331">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/ReverseStringTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
           <folding>
-            <element signature="e#15#79#0" expanded="true" />
+            <element signature="e#19#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="73" lean-forward="true" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+          <folding>
+            <element signature="e#19#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonat.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
