@@ -6,7 +6,7 @@ fun countVowels(phrase: String): Int {
     for (p in phrase.toLowerCase()) {
         when (p) {
             'a', 'e', 'i', 'o', 'u' -> {
-                count += 1
+                count++
             }
         }
     }
@@ -14,5 +14,13 @@ fun countVowels(phrase: String): Int {
 }
 
 fun countConsonants(phrase: String): Int {
-    return 0
+    var count: Int = 0
+    for (p in phrase.toLowerCase()) {
+        when {
+            p != 'a' && p != 'e' && p != 'i' && p != 'o' && p != 'u' && p != ' ' -> {
+                count++
+            }
+        }
+    }
+    return count
 }
