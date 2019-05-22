@@ -15,6 +15,17 @@ class VowelConsonantTest {
     }
 
     @Test
+    fun countVowels2() {
+        Assert.assertEquals(6, countVowels2("Diego Farias"))
+    }
+
+    @Test
+    fun countConsonants2() {
+        Assert.assertEquals(5, countConsonants("Aline Ramos"))
+    }
+
+
+    @Test
     fun countVowelsAndConsonants() {
         var phrase = "Estou gostando muito de aprender kotlin"
         Assert.assertEquals(15, countVowels(phrase)) // Vogal

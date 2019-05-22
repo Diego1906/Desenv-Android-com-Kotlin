@@ -11,23 +11,23 @@ fun reverseUsingSB(str: String): String {
     return newStr.toString()
 }
 
-fun reverseUsingSbReverse(str: String): String {
-    return StringBuilder(str).reverse().toString()
-}
-
 fun reverseUsingLoop(str: String): String {
-    var index: Int = 1
+    var index: Int = str.length - 1
     var strNew: String = ""
 
-    while (index <= str.length) {
-        strNew += str[str.length - index].toString()
-        index++
+    while (index >= 0) {
+        strNew += str[index]
+        index--
     }
     return strNew
 }
 
 fun reverseUsingFunReversed(str: String): String {
     return str.reversed()
+}
+
+fun reverseUsingSbReverse(str: String): String {
+    return StringBuilder(str).reverse().toString()
 }
 
 fun main() {

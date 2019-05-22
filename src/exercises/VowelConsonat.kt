@@ -13,6 +13,20 @@ fun countVowels(phrase: String): Int {
     return count
 }
 
+fun countVowels2(phrase: String): Int {
+    val VOLWES = "aeiou"
+    var totalVolwes = 0
+
+    for (letter in phrase) {
+        when {
+            VOLWES.contains(letter, true) -> {
+                totalVolwes++
+            }
+        }
+    }
+    return totalVolwes
+}
+
 fun countConsonants(phrase: String): Int {
     var count: Int = 0
     for (p in phrase.toLowerCase()) {
@@ -23,4 +37,23 @@ fun countConsonants(phrase: String): Int {
         }
     }
     return count
+}
+
+fun countConsonants2(phrase: String): Int {
+    val VOLWES = "aeiou"
+    var totalConsonants: Int = 0
+
+    for (letter in phrase) {
+        when {
+            VOLWES.contains(letter, true).not() && letter != ' ' -> {
+                totalConsonants++
+            }
+        }
+    }
+    return totalConsonants
+}
+
+fun main() {
+    println(countVowels2("DIEGO Farias"))
+    println(countConsonants2("Aline RAMOS"))
 }
