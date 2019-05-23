@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d80b2066-7096-4901-9c72-397a7d8abf3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/META-INF/Desenvolvimento Android com Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/META-INF/Desenvolvimento Android com Kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/VowelConsonantTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/VowelConsonantTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/VowelConsonatKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/VowelConsonatKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/ReverseString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/ReverseString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/exercises/VowelConsonat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/VowelConsonat.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,33 +16,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/Constructor.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-              <folding>
-                <element signature="e#19#64#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonat.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Boolean.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -76,8 +49,10 @@
         <option value="$PROJECT_DIR$/src/vararg.kt" />
         <option value="$PROJECT_DIR$/src/exercises/ReverseStringTest.kt" />
         <option value="$PROJECT_DIR$/src/exercises/ReverseString.kt" />
-        <option value="$PROJECT_DIR$/src/exercises/VowelConsonat.kt" />
         <option value="$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt" />
+        <option value="$PROJECT_DIR$/src/exercises/VowelConsonat.kt" />
+        <option value="$PROJECT_DIR$/src/Classes.kt" />
+        <option value="$PROJECT_DIR$/src/Constructor.kt" />
       </list>
     </option>
   </component>
@@ -97,7 +72,12 @@
           <expand>
             <path>
               <item name="CursoIntroducaoKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Desenv-Android-com-Kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CursoIntroducaoKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Desenv-Android-com-Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -117,6 +97,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DIEGO\Desktop\Android\Android com Kotlin - Udemy\Desenv-Android-com-Kotlin\src" />
       <recent name="C:\Users\Diego.Santos\Desktop\Meus Documentos\Desenv-Android-com-Kotlin\src" />
     </key>
   </component>
@@ -132,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.VowelConsonantTest">
+  <component name="RunManager" selected="Kotlin.ClassesKt">
     <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Desenvolvimento Android com Kotlin" />
       <extension name="coverage">
@@ -179,14 +160,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercises.ReverseStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Desenvolvimento Android com Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exercises.ReverseStringKt" />
+      <option name="MAIN_CLASS_NAME" value="ClassesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -207,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.VowelConsonantTest" />
+        <item itemvalue="Kotlin.ClassesKt" />
         <item itemvalue="Kotlin.exercises.VowelConsonatKt" />
+        <item itemvalue="JUnit.VowelConsonantTest" />
         <item itemvalue="JUnit.VowelConsonantTest.countVowelsNew" />
         <item itemvalue="JUnit.ReverseStringTest" />
-        <item itemvalue="Kotlin.exercises.ReverseStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -271,8 +252,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23600605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,7 +263,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5499182" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23404256" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33387887" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,16 +283,6 @@
     </layout>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/exercises/VowelConsonat.kt</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="str.length" language="kotlin" />
@@ -387,6 +359,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Boolean.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/ReverseString.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -404,27 +383,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Boolean.kt">
+    <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="365">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#19#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="99" column="22" lean-forward="true" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonat.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        <state relative-caret-position="257">
+          <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt">
+    <entry file="file://$PROJECT_DIR$/src/Classes.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="e#19#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constructor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
         </state>
       </provider>
     </entry>

@@ -53,7 +53,25 @@ fun countConsonants2(phrase: String): Int {
     return totalConsonants
 }
 
+fun usingLet() {
+    var nome: String? = "Diego "
+
+
+    if (nome != null)
+        println("Nome é $nome")
+
+
+    nome?.let {
+        println("O tamanhdo da string é ${it.length}")
+        return
+    }
+    println("Nome é null")
+}
+
 fun main() {
+
+    usingLet()
+
     println(countVowels2("DIEGO Farias"))
     println(countConsonants2("Aline RAMOS"))
 }
