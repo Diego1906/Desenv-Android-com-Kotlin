@@ -3,7 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="d80b2066-7096-4901-9c72-397a7d8abf3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises/VowelConsonat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/VowelConsonat.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/ClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/ClassesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/FlowWhileKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/FlowWhileKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/META-INF/Desenvolvimento Android com Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/META-INF/Desenvolvimento Android com Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/Pessoa1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/Pessoa1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/Pessoa2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/Pessoa2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/Pessoa3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/Pessoa3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/VarargKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/VarargKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/basic/CastKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/basic/CastKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/basic/ErrosKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/basic/ErrosKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/ReverseStringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/VowelConsonantTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/VowelConsonantTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/VowelConsonatKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desenvolvimento Android com Kotlin/exercises/VowelConsonatKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,12 +31,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Constructor.kt">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            <state relative-caret-position="221">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/with.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -51,8 +75,11 @@
         <option value="$PROJECT_DIR$/src/exercises/ReverseString.kt" />
         <option value="$PROJECT_DIR$/src/exercises/VowelConsonantTest.kt" />
         <option value="$PROJECT_DIR$/src/exercises/VowelConsonat.kt" />
-        <option value="$PROJECT_DIR$/src/Classes.kt" />
         <option value="$PROJECT_DIR$/src/Constructor.kt" />
+        <option value="$PROJECT_DIR$/src/Classes.kt" />
+        <option value="$PROJECT_DIR$/src/enumClass.kt" />
+        <option value="$PROJECT_DIR$/src/dataClass.kt" />
+        <option value="$PROJECT_DIR$/src/with.kt" />
       </list>
     </option>
   </component>
@@ -67,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,7 +111,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -113,22 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassesKt">
-    <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Desenvolvimento Android com Kotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercises" />
-      <option name="MAIN_CLASS_NAME" value="exercises.ReverseStringTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.DataClassKt">
     <configuration name="VowelConsonantTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Desenvolvimento Android com Kotlin" />
       <extension name="coverage">
@@ -144,22 +156,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelConsonantTest.countVowelsNew" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Desenvolvimento Android com Kotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercises" />
-      <option name="MAIN_CLASS_NAME" value="exercises.VowelConsonantTest" />
-      <option name="METHOD_NAME" value="countVowelsNew" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Desenvolvimento Android com Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -168,6 +164,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ClassesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Desenvolvimento Android com Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DataClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Desenvolvimento Android com Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="EnumClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -188,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassKt" />
+        <item itemvalue="Kotlin.EnumClassKt" />
         <item itemvalue="Kotlin.ClassesKt" />
         <item itemvalue="Kotlin.exercises.VowelConsonatKt" />
         <item itemvalue="JUnit.VowelConsonantTest" />
-        <item itemvalue="JUnit.VowelConsonantTest.countVowelsNew" />
-        <item itemvalue="JUnit.ReverseStringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +276,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17170954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,7 +285,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23404256" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38134205" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33387887" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,17 +429,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes.kt">
+    <entry file="file://$PROJECT_DIR$/src/enumClass.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="391">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Constructor.kt">
+    <entry file="file://$PROJECT_DIR$/src/constructor.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/with.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
         </state>
       </provider>
     </entry>
