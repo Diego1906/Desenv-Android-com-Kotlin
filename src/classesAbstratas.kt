@@ -5,6 +5,10 @@ interface Animal {
     fun falar(): Unit
     fun dormir(): Unit
     fun comer(): Unit
+
+    fun latir(){
+        println("teste")
+    }
 }
 
 
@@ -22,15 +26,15 @@ abstract class Mamifero(var nome: String) : Animal {
         println("Estou dormindo classe pai")
     }
 
-    abstract fun andar()
+    override fun comer() {
+        println("Eu como ração")
+    }
 
     open fun mamar() {
         print("Eu sou um mamifero e bebo leite")
     }
 
-    override fun comer() {
-        println("Eu como ração")
-    }
+    abstract fun andar()
 
     abstract fun brincar()
 }
@@ -63,8 +67,9 @@ class Cachorro(nome: String, peso: Float) : Mamifero(nome) {
         println("\te também como comida porque sou viralata e moro na rua.")
     }
 
+
     override fun brincar() {
-        println("Cachorro adoram brincar com seus donos. Eu fico muito feliz quando meu dono brinca comigo")
+        println("Cachorros adoram brincar com seus donos. Eu fico muito feliz quando meu dono brinca comigo")
     }
 }
 
@@ -94,6 +99,7 @@ class Gato(nome: String, peso: Float) : Mamifero(nome) {
     override fun brincar() {
         println("Eu gosto de brincar quando sou pequeno, depois que cresco fico um gato chato.")
     }
+
 }
 
 
