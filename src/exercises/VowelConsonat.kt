@@ -68,10 +68,20 @@ fun usingLet() {
     println("Nome é null")
 }
 
+fun countVowelsFilter(frase: String): Int {
+    //val list = listOf("a", "e", "i", "o", "u")
+    // return frase.filter { list.contains(it.toString()) }.count()
+
+    return frase.filter { it.toLowerCase() in "aeiou" }.length
+    // return frase.filter { it.toLowerCase() in "aeiou" }.count()
+}
+
+
 fun main() {
 
     usingLet()
 
     println(countVowels2("DIEGO Farias"))
     println(countConsonants2("Aline RAMOS"))
+    println(countVowelsFilter("Minha frase com vogais!"))
 }
